@@ -1,0 +1,5 @@
+name,price,category,in_stock
+Laptop,1200,Electronics,True
+Gaming Mouse,60,,True
+Keyboard,120,Electronics,True
+Headset,200,Electronics,True

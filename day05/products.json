@@ -1,0 +1,8 @@
+[
+    {"name": "Laptop", "price": 1200, "category": "Electronics", "in_stock": true},
+    {"name": "Desk Chair", "price": 500, "category": "Furniture", "in_stock": false},
+    {"name": "Gaming Mouse", "price": 60, "category": "Electronics",  "in_stock": true},
+    {"name": "Keyboard", "price": 120, "category": "Electronics", "in_stock": true},
+    {"name": "Headset", "price": 200, "category": "Electronics", "in_stock": true},
+    {"name": "Energy Drink Fridge", "price": 650, "category": "Furniture", "in_stock": false}
+]
