@@ -1,0 +1,8 @@
+[
+    {"name": "Ahri", "role": "mage", "release_year": 2011, "pick_rate": 8.2},
+    {"name": "Lee Sin", "role": "jungler", "release_year": 2011, "pick_rate": 12.5},
+    {"name": "Jinx", "role": "marksman", "release_year": 2013, "pick_rate": 15.1},
+    {"name": "Thresh", "role": "support", "release_year": 2013, "pick_rate": 9.7},
+    {"name": "Zed", "role": "assassin", "release_year": 2012, "pick_rate": 11.3},
+    {"name": "Lux", "role": "mage", "release_year": 2010, "pick_rate": 10.8}
+]
